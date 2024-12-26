@@ -4,3 +4,4 @@ submission.csv
 train
 test
 catboost_info
+__pycache__
